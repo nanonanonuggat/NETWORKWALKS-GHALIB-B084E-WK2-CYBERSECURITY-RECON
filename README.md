@@ -2,8 +2,8 @@
 
 **Topics:** Footprinting, Reconnaissance, and Network Discovery  
 **Program:** NetworkWalks Cybersecurity Training — Batch B084  
-**Author:** Gaurav Ravindra Chalke  
-**Report date:** 10 November 2026
+**Author:** Ghalib Farras Ahmad  
+**Report date:** 11/11/2026
 
 ---
 
