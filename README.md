@@ -138,33 +138,8 @@ Use these terms carefully:
 
 This project primarily records observations. It does not contain a validated exploitation finding.
 
-## 9. Repository Structure
 
-```text
-NetworkWalks-Week2-Cybersecurity/
-├── README.md
-├── REPORT.pdf
-├── REPORT.docx
-├── evidence/
-│   ├── E01_whois_domain_registration.png
-│   ├── E02_whatweb_technology_fingerprint.png
-│   ├── E03_nslookup_dns_resolution.png
-│   ├── E04_curl_http_response_headers.png
-│   ├── E05_wafw00f_detection.png
-│   ├── E06_dnsrecon_original_report_capture.png
-│   └── E07_zenmap_topology.png
-└── recon/
-    ├── whoisnetworkwalks.txt
-    ├── whatwebnetworkwalks.txt
-    ├── nslookupnetworkwalks.txt
-    ├── curlInetworkwalks.txt
-    ├── wafw00fnetworkwalks.txt
-    └── dnsrecnetworkwalks.txt
-```
-
-The README intentionally contains no embedded evidence screenshots. Evidence is stored separately and referenced by ID in the report.
-
-## 10. References
+## 9. References
 
 - [OWASP Web Security Testing Guide — Information Gathering Overview](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/00-Information_Gathering_Overview)
 - [OWASP Web Security Testing Guide — Penetration Testing Methodologies](https://owasp.org/www-project-web-security-testing-guide/v42/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies)
